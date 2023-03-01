@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm Anthony Ming, passionate and creative software developer
 
 <!--
 **anthony-ming/anthony-ming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
