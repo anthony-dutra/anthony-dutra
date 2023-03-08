@@ -1,6 +1,15 @@
 ### Hi there 👋
 I'm Anthony Ming, passionate and creative software developer
 
+## My Tech Stacks
+- React.js / Angular.js / Vue.js / Typescript/ jQuery / Bootstrap / Tailwind / Chakra
+- Node.js / Express.js / Wordpress / ASP.NET MVC / JSP / Laravel / Django
+- Solidity / Move / Openzeppelin
+- Web3
+- MongoDB / MySQL / Postgres
+- Three.js / Phaser.js / HTML5 Canvas / WebGL
+- Git / Version management
+
 <!--
 **anthony-ming/anthony-ming** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
