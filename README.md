@@ -1,4 +1,4 @@
-## Hi there
+## Hi there!
 I'm Anthony Ming, passionate and creative software developer
 
 ### My Tech Stacks
