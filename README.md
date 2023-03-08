@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 I'm Anthony Ming, passionate and creative software developer
 
-## My Tech Stacks
+### My Tech Stacks
 - React.js / Angular.js / Vue.js / Typescript/ jQuery / Bootstrap / Tailwind / Chakra
 - Node.js / Express.js / Wordpress / ASP.NET MVC / JSP / Laravel / Django
 - Solidity / Move / Openzeppelin
