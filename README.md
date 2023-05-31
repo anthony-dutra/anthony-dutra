@@ -1,5 +1,5 @@
 ## Hi there!
-I'm Anthony Ming, passionate and creative software developer
+I'm Anthony Dutra, passionate and creative software developer
 
 ### My Tech Stacks
 - React.js / Angular.js / Vue.js / Typescript/ jQuery / Bootstrap / Tailwind / Chakra
